@@ -1,0 +1,12 @@
+<Application execution logic>
+1. Download and start this application in the Android environment.
+2. Choose your photo to experience a hairstyle simulation.
+3. Choose your hairstyles with hair colors that you want to try and experiment with.
+4. Enjoy the app with a variety of AR functions!
+
+
+<System logic comment>
+If you start this application in the Android environment and choose your photo, 
+the application will send your photo to the server, and then the server detects your face in the photo using OpenCV and make a photo file in /Server/backs/ as Faces.png.
+After a computer vision deep learning model with Faces.png, the result will be stored as a file in /Server/backs/ as crop_hair.png.
+Lastly, the application offers a high quality of service to users, using crop_hair.png with AR functions.
