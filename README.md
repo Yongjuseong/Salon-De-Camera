@@ -5,4 +5,5 @@ This is an android application that allows users to try hairstyles and experimen
 
 We used a computer vision deep learning model to provide a high-quality user experience for a hairstyle simulation.
 
-[Demo] <img width="80%" src="https://github.com/Yongjuseong/Salon-De-Camera/assets/50524284/9429c856-d3f9-4a2b-bf26-23dfe0783d50"/>
+[Demo] 
+<img width="50%" src="https://github.com/Yongjuseong/Salon-De-Camera/assets/50524284/9429c856-d3f9-4a2b-bf26-23dfe0783d50"/>
